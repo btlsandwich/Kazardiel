@@ -1,0 +1,48 @@
+.header {
+    background:rgba(53,24,74,0.8);
+    font-size:170%;
+    padding:30px;
+}    
+body {
+    background:linear-gradient(to bottom,#0e0000,#2c1039);
+    background-image:url("http://backgroundcheckall.com/wp-content/uploads/2017/12/starry-night-sky-background-9.jpg");
+    background-attachment:fixed;
+    text-align:center;
+    color:white;
+    font-family:"Optima", sans-serif;
+}
+.quote {
+    font-size:95%
+}
+#head {
+    font-size:88%;
+}
+.introduction {
+    text-indent:50px;
+    font-size:92%;
+}
+.content {
+    font-size:90%;
+    text-align:center;
+    text-indent:30px;
+}
+#league {
+    border-style:double;
+    border-color:#d19901;
+    width:40%;
+}
+#book {
+    border-style:double;
+    width:30%;
+    border-color:#eed82f;
+}
+#room {
+    border-style:double;
+    width:50%;
+    border-color:#9cdfc4;
+}
+#cover {
+    border-style:double;
+    width:30%;
+    border-color:#8b0422;
+}
